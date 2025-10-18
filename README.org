@@ -4,6 +4,6 @@ common lisp/cffi bindings for Open Asset Import Library (http://assimp.sourcefor
 
 |---------+----------------------------------------|
 | source  | git:https://github.com/3b/classimp.git |
-| commit  | b267ec2                                |
+| commit  | 20a25d0                                |
 | systems | classimp                               |
 |---------+----------------------------------------|
